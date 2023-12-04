@@ -1,40 +1,47 @@
-# Python_Basics
 # Python Basics
 
-Welcome to my Python Basics repository! This is where I've documented and organized all the Python code snippets and projects I've worked on while learning the language.
+Welcome to my Python Basics repository! This collection includes Jupyter Notebooks where I've documented various aspects of Python programming during my learning journey.
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
-3. [Code Examples](#code-examples)
+3. [Notebooks](#code-examples)
 4. [Projects](#projects)
 5. [Contributing](#contributing)
 6. [License](#license)
 
 ## Introduction
 
-This repository serves as my personal collection of Python code snippets and projects that I've used to grasp the fundamentals of the language. Whether you're a beginner or an experienced developer, feel free to explore and use these examples for your own learning purposes.
+This repository serves as my personal learning space for Python programming. The Jupyter Notebooks included cover fundamental concepts and features, providing both code examples and explanations.
 
-## Getting Started
+## Notebooks
 
-If you're new to Python or this repository, here are a few steps to get started:
+1. [Basic.ipynb](Basic.ipynb)
+2. [strings.ipynb](strings.ipynb)
+3. [Conditional.ipynb](Conditional.ipynb)
+4. [Loops.ipynb](Loops.ipynb)
+5. [List.ipynb](List.ipynb)
+6. [list_comprehension.ipynb](list_comprehension.ipynb)
+7. [tuple.ipynb.txt](tuple.ipynb.txt)
+8. [Function.ipynb](Function.ipynb)
+9. [function_2.ipynb](function_2.ipynb)
+10. [function_3.ipynb](function_3.ipynb)
+11. [file handling.ipynb](file%20handling.ipynb)
+12. [loggin_debugging_saveTofile.ipynb](loggin_debugging_saveTofile.ipynb)
+13. [logging_debugging_employee.ipynb](logging_debugging_employee.ipynb)
+14. [oop.ipynb](oop.ipynb)
+15. [encapsulation.ipynb](encapsulation.ipynb)
+16. [inheritance.ipynb](inheritance.ipynb)
+17. [exception handling.ipynb](exception%20handling.ipynb)
+18. [iterator and generator.ipynb](iterator%20and%20generator.ipynb)
+19. [errors.ipynb](errors.ipynb)
 
-- Clone the repository: `git clone https://github.com/your-username/Python-Basics.git`
-- Navigate to the repository: `cd Python-Basics`
-- Explore the various directories containing code snippets and projects.
-
-## Code Examples
-
-The `code_examples` directory contains simple Python scripts and snippets covering a range of topics. Each file is self-contained and focuses on a specific concept or feature. Feel free to browse through and use them as references.
-
-## Projects
-
-In the `projects` directory, you'll find more comprehensive Python projects that I've implemented to reinforce my understanding of the language. Each project is organized into its own directory with a dedicated README file providing details and instructions.
+Feel free to explore the notebooks based on your interest or learning needs. Each notebook is dedicated to a specific topic and contains code examples and explanations.
 
 ## Contributing
 
-If you have suggestions for improvement, new code snippets, or additional projects, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+If you have suggestions for improvement, corrections, or want to add more notebooks, feel free to open an issue or submit a pull request. Your contributions are valuable!
 
 ## License
 
